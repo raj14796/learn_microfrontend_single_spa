@@ -1,0 +1,6 @@
+After creating all the independent apps :
+
+1) come back to the root folder
+2) npm init -y
+3) npm i single-spa-react single-spa-vue
+4) npm i -D babel-loader clean-webpack-plugin css-loader file-loader html-loader style-loader svg-inline-loader vue-loader vue-template-compiler webpack webpack-cli webpack-dev-server
